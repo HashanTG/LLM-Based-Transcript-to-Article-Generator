@@ -1,6 +1,11 @@
 // OptionsPanel.tsx
 
-import type { ArticleOptions } from "../lib/api";
+type ArticleOptions = {
+  tone: string;
+  length: string;
+  language: string;
+  userGuidance: string;
+};
 
 type Props = {
   options: ArticleOptions;
