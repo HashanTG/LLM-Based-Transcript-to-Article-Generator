@@ -2,6 +2,14 @@
 
 <img width="1467" height="564" alt="image" src="https://github.com/user-attachments/assets/bd80f699-bb83-4f07-8f0a-d667fdfd69fc" />
 
+## Screenshot
+
+<img width="1859" height="876" alt="image" src="https://github.com/user-attachments/assets/986fbb7a-5923-482e-92d6-e29b78d391ca" />
+
+
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](llm-based-transcript-to-article-gen.vercel.app)
 
 
 # 🤖 AI-Powered Article Generator
