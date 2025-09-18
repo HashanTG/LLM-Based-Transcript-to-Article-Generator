@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](llm-based-transcript-to-article-gen.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)]([llm-based-transcript-to-article-gen.vercel.app](https://llm-based-transcript-to-article-gen.vercel.app/))
 
 
 # 🤖 AI-Powered Article Generator
